@@ -1,0 +1,17 @@
+
+House Arryn of the Eyrie;445
+ : https://anapioficeandfire.com/api/houses/7/
+House Baratheon of Storm's End;445
+ : https://anapioficeandfire.com/api/houses/17/
+House Lannister of Casterly Rock;445
+ : https://anapioficeandfire.com/api/houses/229/
+House Nymeros Martell of Sunspear;445
+ : https://anapioficeandfire.com/api/houses/285/
+House Stark of Winterfell;445
+ : https://anapioficeandfire.com/api/houses/362/
+House Targaryen of King's Landing;445
+ : https://anapioficeandfire.com/api/houses/378/
+House Tully of Riverrun;445
+ : https://anapioficeandfire.com/api/houses/395/
+House Tyrell of Highgarden;445
+ : https://anapioficeandfire.com/api/houses/398/

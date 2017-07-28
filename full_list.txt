@@ -1,0 +1,444 @@
+House Algood;445
+House Allyrion of Godsgrace;445
+House Amber;445
+House Ambrose;445
+House Appleton of Appleton;445
+House Arryn of Gulltown;445
+House Arryn of the Eyrie;445
+House Ashford of Ashford;445
+House Ashwood;445
+House Baelish of Harrenhal;445
+House Baelish of the Fingers;445
+House Ball;445
+House Banefort of Banefort;445
+House Bar Emmon of Sharp Point;445
+House Baratheon of Dragonstone;445
+House Baratheon of King's Landing;445
+House Baratheon of Storm's End;445
+House Beesbury of Honeyholt;445
+House Belmore of Strongsong;445
+House Bettley;445
+House Bigglestone;445
+House Blackbar of Bandallon;445
+House Blackfyre of King's Landing;445
+House Blackmont of Blackmont;445
+House Blackmyre;445
+House Blacktyde of Blacktyde;445
+House Blackwood of Raventree Hall;445
+House Blanetree;445
+House Blount;445
+House Boggs;445
+House Boggs of Crackclaw Point;445
+House Bole;445
+House Bolling;445
+House Bolton of the Dreadfort;445
+House Borrell of Sweetsister;445
+House Botley of Lordsport;445
+House Bracken of Stone Hedge;445
+House Branch;445
+House Branfield;445
+House Brax of Hornvale;445
+House Breakstone;445
+House Briar;445
+House Bridges;445
+House Brightstone;445
+House Brook;445
+House Broom;445
+House Brownhill;445
+House Brune of Brownhollow;445
+House Brune of the Dyre Den;445
+House Buckler of Bronzegate;445
+House Buckwell of the Antlers;445
+House Bulwer of Blackcrown;445
+House Burley;445
+House Bushy;445
+House Butterwell;445
+House Byrch;445
+House Bywater;445
+House Cafferen of Fawnton;445
+House Cargyll;445
+House Caron of Nightsong;445
+House Cassel;445
+House Casterly of Casterly Rock;445
+House Caswell of Bitterbridge;445
+House Cave;445
+House Celtigar of Claw Isle;445
+House Cerwyn of Cerwyn;445
+House Chambers;445
+House Charlton;445
+House Chelsted;445
+House Chester of Greenshield;445
+House Chyttering;445
+House Clegane;445
+House Clifton;445
+House Cockshaw;445
+House Codd;445
+House Coldwater of Coldwater Burn;445
+House Cole;445
+House Condon;445
+House Conklyn;445
+House Connington of Griffin's Roost;445
+House Corbray of Heart's Home;445
+House Cordwayner of Hammerhal;445
+House Costayne of Three Towers;445
+House Cox of Saltpans;445
+House Crabb;445
+House Crakehall of Crakehall;445
+House Crane of Red Lake;445
+House Cray;445
+House Cressey;445
+House Crowl of Deepdown;445
+House Cuy of Sunhouse;445
+House Dalt of Lemonwood;445
+House Dargood;445
+House Darke;445
+House Darklyn of Duskendale;445
+House Darkwood;445
+House Darry of Darry;445
+House Dayne of High Hermitage;445
+House Dayne of Starfall;445
+House Deddings;445
+House Doggett;445
+House Dondarrion of Blackhaven;445
+House Donniger;445
+House Drinkwater;445
+House Drox;445
+House Drumm of Old Wyk;445
+House Dryland;445
+House Dunn;445
+House Durrandon;445
+House Durwell;445
+House Dustin of Barrowton;445
+House Edgerton;445
+House Egen;445
+House Elesham of the Paps;445
+House Erenford;445
+House Errol of Haystack Hall;445
+House Estermont of Greenstone;445
+House Estren of Wyndhall;445
+House Falwell;445
+House Farman of Faircastle;445
+House Farring;445
+House Farwynd of Sealskin Point;445
+House Farwynd of the Lonely Light;445
+House Fell of Felwood;445
+House Fenn;445
+House Ferren;445
+House Fisher;445
+House Fisher of the Stony Shore;445
+House Flint of the mountains;445
+House Flint of Breakstone Hill;445
+House Flint of Flint's Finger;445
+House Flint of Widow's Watch;445
+House Florent of Brightwater Keep;445
+House Follard;445
+House Foote;445
+House Foote of Nightsong;445
+House Footly of Tumbleton;445
+House Forrester;445
+House Fossoway of Cider Hall;445
+House Fossoway of New Barrel;445
+House Fowler of Skyreach;445
+House Frey of Riverrun;445
+House Frey of the Crossing;445
+House Frost;445
+House Gardener of Highgarden;445
+House Gargalen of Salt Shore;445
+House Garner;445
+House Gaunt;445
+House Glenmore;445
+House Glover of Deepwood Motte;445
+House Goodbrook;445
+House Goodbrother of Corpse Lake;445
+House Goodbrother of Crow Spike Keep;445
+House Goodbrother of Downdelving;445
+House Goodbrother of Hammerhorn;445
+House Goodbrother of Orkmont;445
+House Goodbrother of Shatterstone;445
+House Gower;445
+House Graceford of Holyhall;445
+House Grafton of Gulltown;445
+House Grandison of Grandview;445
+House Graves;445
+House Greenfield of Greenfield;445
+House Greengood;445
+House Greenwood;445
+House Grell;445
+House Grey;445
+House Greyiron of Orkmont;445
+House Greyjoy of Pyke;445
+House Greystark of Wolf's Den;445
+House Grimm of Greyshield;445
+House Haigh;445
+House Hamell;445
+House Harclay;445
+House Hardy;445
+House Hardyng;445
+House Harlaw of Grey Garden;445
+House Harlaw of Harlaw;445
+House Harlaw of Harlaw Hall;445
+House Harlaw of Harridan Hill;445
+House Harlaw of the Tower of Glimmering;445
+House Harlton;445
+House Harroway of Harrenhal;445
+House Harte;445
+House Hastwyck;445
+House Hasty;445
+House Hawick of Saltpans;445
+House Hawthorne;445
+House Hayford of Hayford;445
+House Heddle;445
+House Herston;445
+House Hersy of Newkeep;445
+House Hetherspoon;445
+House Hewett of Oakenshield;445
+House Hightower of the Hightower;445
+House Hoare of Orkmont;445
+House Hogg of Sow's Horn;445
+House Hollard;445
+House Holt;445
+House Holt;445
+House Hook;445
+House Hornwood of Hornwood;445
+House Horpe;445
+House Hull;445
+House Humble;445
+House Hunt;445
+House Hunter of Longbow Hall;445
+House Hutcheson;445
+House Inchfield;445
+House Ironmaker;445
+House Ironsmith;445
+House Jast;445
+House Jordayne of the Tor;445
+House Justman;445
+House Karstark of Karhold;445
+House Keath;445
+House Kellington;445
+House Kenning of Harlaw;445
+House Kenning of Kayce;445
+House Kettleblack;445
+House Kidwell of Ivy Hall;445
+House Knott;445
+House Kyndall;445
+House Ladybright;445
+House Lake;445
+House Lake;445
+House Langward;445
+House Lannett;445
+House Lannister of Casterly Rock;445
+House Lannister of Darry;445
+House Lannister of Lannisport;445
+House Lanny;445
+House Lantell;445
+House Lefford of the Golden Tooth;445
+House Leygood;445
+House Liddle;445
+House Lightfoot;445
+House Lipps;445
+House Locke of Oldcastle;445
+House Lolliston;445
+House Long;445
+House Longthorpe of Longsister;445
+House Longwaters;445
+House Lonmouth;445
+House Lorch;445
+House Lothston of Harrenhal;445
+House Lowther;445
+House Lyberr;445
+House Lychester;445
+House Lydden of Deep Den;445
+House Lynderly of the Snakewood;445
+House Magnar of Kingshouse;445
+House Mallery;445
+House Mallister of Seagard;445
+House Manderly of White Harbor;445
+House Manning;445
+House Manwoody of Kingsgrave;445
+House Marbrand of Ashemark;445
+House Marsh;445
+House Massey of Stonedance;445
+House Meadows of Grassy Vale;445
+House Melcolm of Old Anchor;445
+House Merlyn of Pebbleton;445
+House Merryweather of Longtable;445
+House Mertyns of Mistwood;445
+House Middlebury;445
+House Mollen;445
+House Moore;445
+House Mooton of Maidenpool;445
+House Moreland;445
+House Mormont of Bear Island;445
+House Morrigen of Crow's Nest;445
+House Moss;445
+House Mudd of Oldstones;445
+House Mullendore of Uplands;445
+House Musgood;445
+House Myatt;445
+House Myre of Harlaw;445
+House Nayland of Hag's Mire;445
+House Netley;445
+House Norcross;445
+House Norrey;445
+House Norridge;445
+House Nutt;445
+House Nymeros Martell of Sunspear;445
+House Oakheart of Old Oak;445
+House Oldflowers;445
+House Orkwood of Orkmont;445
+House Orme;445
+House Osgrey of Leafy Lake;445
+House Osgrey of Standfast;445
+House Overton;445
+House Paege;445
+House Parren;445
+House Payne;445
+House Peake of Starpike;445
+House Peasebury of Poddingfield;445
+House Peat;445
+House Peckledon;445
+House Penrose of Parchments;445
+House Perryn;445
+House Piper of Pinkmaiden;445
+House Plumm;445
+House Pommingham;445
+House Poole;445
+House Prester of Feastfires;445
+House Pryor of Pebble;445
+House Pyle;445
+House Pyne;445
+House Qoherys of Harrenhal;445
+House Qorgyle of Sandstone;445
+House Quagg;445
+House Rambton;445
+House Redbeard;445
+House Redding;445
+House Redfort of Redfort;445
+House Redwyne of the Arbor;445
+House Reed of Greywater Watch;445
+House Reyne of Castamere;445
+House Rhysling;445
+House Risley;445
+House Rogers of Amberly;445
+House Rollingford;445
+House Roote of Lord Harroway's Town;445
+House Rosby of Rosby;445
+House Rowan of Goldengrove;445
+House Roxton of the Ring;445
+House Royce of Runestone;445
+House Royce of the Gates of the Moon;445
+House Ruthermont;445
+House Ruttiger;445
+House Ryder of the Rills;445
+House Ryger of Willow Wood;445
+House Rykker of Duskendale;445
+House Ryswell of the Rills;445
+House Saltcliffe of Saltcliffe;445
+House Santagar of Spottswood;445
+House Sarsfield of Sarsfield;445
+House Sarwyck;445
+House Seaworth of Cape Wrath;445
+House Selmy of Harvest Hall;445
+House Serrett of Silverhill;445
+House Serry of Southshield;445
+House Sharp;445
+House Shawney;445
+House Shell;445
+House Shell;445
+House Shepherd;445
+House Shermer of Smithyton;445
+House Shett of Gull Tower;445
+House Shett of Gulltown;445
+House Slate of Blackpool;445
+House Sloane;445
+House Slynt of Harrenhal;445
+House Smallwood of Acorn Hall;445
+House Sparr of Great Wyk;445
+House Spicer of Castamere;445
+House Stackhouse;445
+House Stackspear;445
+House Staedmon of Broad Arch;445
+House Stane of Driftwood Hall;445
+House Stark of Winterfell;445
+House Staunton of Rook's Rest;445
+House Stokeworth of Stokeworth;445
+House Stonehouse of Old Wyk;445
+House Stonetree of Harlaw;445
+House Stout of Goldgrass;445
+House Strickland;445
+House Strong of Harrenhal;445
+House Sunderland of the Three Sisters;445
+House Sunderly of Saltcliffe;445
+House Sunglass of Sweetport Sound;445
+House Swann of Stonehelm;445
+House Swyft of Cornfield;445
+House Swygert;445
+House Tallhart of Torrhen's Square;445
+House Tarbeck of Tarbeck Hall;445
+House Targaryen of King's Landing;445
+House Tarly of Horn Hill;445
+House Tarth of Evenfall Hall;445
+House Tawney of Orkmont;445
+House Teague;445
+House Templeton;445
+House Terrick;445
+House Thenn;445
+House Thorne;445
+House Toland of Ghost Hill;445
+House Tollett of the Grey Glen;445
+House Torrent of Littlesister;445
+House Towers;445
+House Towers of Harrenhal;445
+House Toyne;445
+House Trant of Gallowsgrey;445
+House Tudbury;445
+House Tully of Riverrun;445
+House Turnberry;445
+House Tyrell of Brightwater Keep;445
+House Tyrell of Highgarden;445
+House Uffering;445
+House Uller of Hellholt;445
+House Umber of the Last Hearth;445
+House Upcliff;445
+House Vaith of the Red Dunes;445
+House Vance of Atranta;445
+House Vance of Wayfarer's Rest;445
+House Varner;445
+House Velaryon of Driftmark;445
+House Vikary;445
+House Volmark;445
+House Vypren;445
+House Vyrwel of Darkdell;445
+House Wade;445
+House Wagstaff;445
+House Waterman;445
+House Waxley of Wickenden;445
+House Wayn;445
+House Waynwood of Ironoaks;445
+House Weaver;445
+House Webber of Coldmoat;445
+House Wells;445
+House Wells;445
+House Wendwater;445
+House Wensington;445
+House Westbrook;445
+House Westerling of the Crag;445
+House Westford;445
+House Whent of Harrenhal;445
+House Whitehill;445
+House Willum;445
+House Wode;445
+House Woodfoot of Bear Island;445
+House Woods;445
+House Woodwright;445
+House Woolfield;445
+House Wull;445
+House Wydman;445
+House Wyl of the Boneway;445
+House Wylde of Rain House;445
+House Wynch of Iron Holt;445
+House Wythers;445
+House Yarwyck;445
+House Yelshire;445
+House Yew;445
+House Yronwood of Yronwood;445

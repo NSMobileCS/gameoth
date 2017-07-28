@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> 
+<html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Q: why did the computer scientist bang so hard on the keys when he wrote code?    ////A: He preferred STRONGLY TYPED languages</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using a very strong, very <strong>outdated</strong> strong browser. Please <a href="chrome.google.com">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        
+        <div id='gridcontainer' class='container'>
+        </div>
+    <button type='button' action="/" class="btn" id="reset-btn">wherefore are</button>
+    <script>
+        var houses =   ["House Stark of Winterfell",
+                        "House Tully of Riverrun",
+                        "House Arryn of the Eyrie",
+                        "House Lannister of Casterly Rock",
+                        "House Baratheon of Storm's End",
+                        "House Tyrell of Highgarden",
+                        "House Martell of Sunspear",
+                        "House Targaryen of King's Landing"];
+
+
+        function jsonFinder(){
+            for (var i = 1; i < 445; i++)
+            {
+                var url = "https://anapioficeandfire.com/api/houses/"+i.toString()+"/";
+                $.get(
+                    url,
+                    function (res){
+                    for (var house in houses)
+                    {
+                        if (res.name.indexOf(house) > -1)
+                        {
+                            var nametag = "<p>" + res.name + "</p>\n<p>" + url + "</p>\n";
+                            $('#gridcontainer').append(nametag);
+                        }
+                   }
+                },
+                'json')
+            }
+        }
+
+        $('')
+    </script>
+    </body>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        } 
+        
+        .container{
+            width: 80%;
+            min-height: 700px;
+            margin: 10%;
+            padding: 5%;
+            display: inline-block;
+            background-color: #003900;
+            
+        }
+        .pic{
+            width: 280px;
+        }
+
+        .btn{
+            font-size: 2.2em;
+            border-style: groove;
+            border-color:seagreen;
+            border-radius: 4px;0
+            background-color: sandybrown;
+            display: inline-block;
+            margin: 20px 30% 200px 30%;
+        }
+
+        body{
+            background-color: orangered;
+        }
+        
+        img{
+            margin: 25px;
+            display: inline-block;
+        }
+
+        title{
+            font-size: 3em;
+        }
+
+    </style>
+
+</html>
